@@ -1,6 +1,7 @@
 #include<stdio.h>
+#includs<conio.h>
 
-main()
+void main()
 {
     int n,i,j;//n used for size of array and i,j used for loop counter
     printf("Enter the size of array : ");
